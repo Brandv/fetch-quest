@@ -1,21 +1,27 @@
-#FETCH QUEST! Back End Repo
+#FETCH QUEST! Front End Repo
+Back end repo: https://github.com/Brandv/fetch-quest
 *************
 ###Description:
 Fetch Quest! is gamified errand app that turns mundane errands into fantastical quests! Quests are completed by visiting the location of the errand. Upon completion, the user is rewarded with loot which can be used to customize their avatar.
 
-### Team Members:
-* Rich Richardson
-* Vadim Brand
-* Robert Gervais
-* Dereck Miller
+###Key Technologies:
+- Angular 2
+- Ionic 2
+- Google Maps API
+- Google Places API
 
+API Key:
+
+d67cd72d34986c1d7d8a42cfb7513f07
+
+### Team Members:
+Rich Richardson
+Vadim Brand
+Robert Gervais
+Dereck Miller
 
 Team norms:
-- Morning, afternoon, and end of day stand ups
-- Never push to master
 - A deep ~~dislike~~ ~~begrudging~~ respect of Travis CI builds
-
-
 
 Quest format:
 ******
