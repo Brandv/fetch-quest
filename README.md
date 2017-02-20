@@ -1,11 +1,21 @@
-# FETCH QUEST
-******
+#FETCH QUEST! Back End Repo
+*************
+###Description:
+Fetch Quest! is gamified errand app that turns mundane errands into fantastical quests! Quests are completed by visiting the location of the errand. Upon completion, the user is rewarded with loot which can be used to customize their avatar.
 
-Team members: Rich, Bob, Dereck, Vadim
-****
+### Team Members:
+* Rich Richardson
+* Vadim Brand
+* Robert Gervais
+* Dereck Miller
+
 
 Team norms:
+- Morning, afternoon, and end of day stand ups
+- Never push to master
 - A deep ~~dislike~~ ~~begrudging~~ respect of Travis CI builds
+
+
 
 Quest format:
 ******
